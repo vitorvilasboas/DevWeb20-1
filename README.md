@@ -1,1 +1,1 @@
-# DSW2020-2
+# Projetos da disciplina de Desenvolvimento de Sistemas Web 2020.1
